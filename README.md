@@ -1,2 +1,1 @@
-# archery26
-asdfghj
+# project-C27-template
